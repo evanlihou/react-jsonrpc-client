@@ -18,8 +18,7 @@ class TutoringCalendar extends Component {
       PARAM_2,
       PARAM_3
     ).then(function(response) {
-      this.setState({apiResponse: response})
-    }.bind(this)
-  }
-
-}
+        this.setState({apiResponse: response})
+      }.bind(this)) // End .then()
+  } // End componentDidMount
+} // End class
