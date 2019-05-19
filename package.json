@@ -1,0 +1,26 @@
+{
+  "name": "react-jsonrpc-client",
+  "version": "1.0.0",
+  "description": "A lightweight client that makes working with JSON RPC APIs in React easy",
+  "main": "jsonrpcclient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanlihou/react-jsonrpc-client.git"
+  },
+  "keywords": [
+    "react",
+    "jsonrpc",
+    "rpc",
+    "rpc",
+    "client"
+  ],
+  "author": "Evan Lihou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanlihou/react-jsonrpc-client/issues"
+  },
+  "homepage": "https://github.com/evanlihou/react-jsonrpc-client#readme"
+}
